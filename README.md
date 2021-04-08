@@ -46,7 +46,7 @@ It can be added to the same phase (single phase pipeline) or a different phase (
 
 * Below is an example of custom Area Path & Iteration Path in a YAML multi stage pipeline:
 
-![ScreenShot](images/CustomConfigyaml.png)
+![ScreenShot](images/CustomConfigYAML.png)
 
 * In case the bug created on failure needs to be assigned to a particular person, check the "Provide custom requestor" checkbox and provide the value for the custom requestor.
 * This is particularly useful when pipelines run on scheduled or trigerred by some other process in which case there is no default release requestor.
