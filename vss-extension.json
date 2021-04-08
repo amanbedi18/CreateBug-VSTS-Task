@@ -2,7 +2,7 @@
     "manifestVersion": 1,
     "id": "CreateBugTask",
     "name": "Create Bug on Release failure",
-    "version": "1.2.1",
+    "version": "2.2.1",
     "publisher": "AmanBedi18",
     "targets": [
         {
@@ -28,14 +28,12 @@
     },
     "public": true,
     "tags": [
-        "release", 
-        "bug",
-        "build",
-        "create bug",
-        "vsts",
+        "release", "bug", "build",
+        "create bug", "pipelines",
+        "vsts", "yaml", "multi stage",
         "release failure", "alm",
-        "ci", "cd",
-        "ci cd", "continuous integration", "continuous deployment"
+        "ci", "cd", "continuous integration",
+        "continuous deployment", "scheduled jobs"
     ],
     "links": {
         "home": {
